@@ -11,5 +11,5 @@ First change
 Файл override.tf.json
 Все файлы оканчивающиеся на _override.tf , _override.tf.json
 Файл .terrafromrc , terraform.rc
-
+new line
 
